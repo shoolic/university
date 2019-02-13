@@ -1,0 +1,2 @@
+# Problem
+9-element FIFO buffer. Two producers, two consumers. The producer A produces one letter, while the producer B three letters. The letter(s) is(are) removed from the buffer after being read by one of the consumers. The consumer A consumes one letter, while the consumer B consumes two letters. The number of elements in the buffer after reading by any consumer cannot be lower than three.

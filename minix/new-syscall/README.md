@@ -1,0 +1,2 @@
+# Task
+Add a new GETPROCNR system call to the Minix operating system, supported inside the MM module and returning a number in the process table for a process which ID (PID) will be an argument of this call.
