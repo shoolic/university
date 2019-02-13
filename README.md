@@ -20,6 +20,8 @@ Four data structures implemented in C++ with templates and iterators:
 - LinkedList
 - TreeMap (using red–black tree)
 - HashMap
+## wide-bridges
+A tool for finding so-called wide bridges in an undirected graph structure.
 ## image-scaling
 Image scaling with the bilinear interpolation algorithm implemented in:
 - MIPS assembly language
